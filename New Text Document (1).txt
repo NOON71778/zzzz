@@ -152,6 +152,10 @@ Omar
 
  بتقدر توخذ الشروط وتراجع البنك و البنك راح يشرحلك اذا بطاقتك مشمولة او لأ او بتنطبق عليها الشروط او لأ.
 
+
+I am really sorry I wish I could send you the driver's number but I really don't have access to that.
+
+
 Please keep the phone number that ends with 0000 close to you to receive the driver's call.
 
 And an OTP should appear in the app once the order is out for delivery please don't forget to give it to the driver after they hand you the item.
@@ -172,7 +176,7 @@ Query About Noon rocket order
 
 Customer Concern: the customer asked about Noon rocket  
 
-What was informed: I gave the customer information about the Noon rocket Via Chat   
+What was informed: I gave the customer information about theNoon rocket Via Chat   
 
 
 I've just raised a complaint for you about this.
@@ -255,9 +259,6 @@ Thank you for waiting, I am sorry for the long hold.
 I've just raised an urgent delivery request for you.
 But I can't give you any promises
 Other than we'll try our best to deliver it to you as fast as possible.
-
-And for future reference all orders with get it today/tomorrow get their delivery time extended til 10 PM.
-
 
 Miss Liza if you change the delivery address your shippment will be delayed by 1-2 business days
 but you could reschedule from the app
